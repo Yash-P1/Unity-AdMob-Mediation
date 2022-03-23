@@ -662,7 +662,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1774924525}
-        m_TargetAssemblyTypeName: MediationAdMob, Assembly-CSharp
+        m_TargetAssemblyTypeName: AdMob, Assembly-CSharp
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
@@ -1707,7 +1707,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1774924525}
-        m_TargetAssemblyTypeName: MediationAdMob, Assembly-CSharp
+        m_TargetAssemblyTypeName: AdMob, Assembly-CSharp
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
